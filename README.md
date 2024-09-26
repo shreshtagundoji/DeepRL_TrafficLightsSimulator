@@ -1,4 +1,4 @@
-## Traffic Signal Control with Reinforcement Learning
+## Traffic Signal Control with Deep Reinforcement Learning and SUMO simulator
 # Overview
 
 This project utilizes reinforcement learning techniques to optimize traffic signal control in a simulated environment. It employs the SUMO (Simulation of Urban MObility) traffic simulation framework along with the Stable Baselines3 library for RL implementation.
